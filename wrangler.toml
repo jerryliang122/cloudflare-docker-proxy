@@ -7,7 +7,7 @@ port = 8787
 local_protocol = "http"
 
 [env.vars]
-CUSTOM_DOMAIN = "jerryliang.win"
+CUSTOM_DOMAIN = "233.lan"
 
 [env.dev.vars]
 MODE = "debug"
