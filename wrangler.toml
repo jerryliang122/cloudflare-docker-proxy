@@ -27,6 +27,7 @@ routes = [
 ]
 
 [env.production.vars]
+CUSTOM_DOMAIN = "jerryliang.win"
 MODE = "production"
 TARGET_UPSTREAM = ""
 
